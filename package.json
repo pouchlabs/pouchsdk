@@ -1,0 +1,30 @@
+{
+  "name": "pouchsdk",
+  "version": "1.0.0",
+  "description": "fullstack rest and realtime api framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces":["./apps","./packages","./examples"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pouchlabs/pouchsdk.git"
+  },
+  "keywords": [
+    "sdk",
+    "api",
+    "realtime",
+    "rest",
+    "fullstack",
+    "nodejs",
+    "cli",
+    "vite"
+  ],
+  "author": "pouchlabs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pouchlabs/pouchsdk/issues"
+  },
+  "homepage": "https://github.com/pouchlabs/pouchsdk#readme"
+}
