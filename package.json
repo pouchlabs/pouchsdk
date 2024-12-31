@@ -1,5 +1,5 @@
 {
-  "name": "pouchsdk",
+  "name": "pouchsdk-mono",
   "version": "1.0.0",
   "description": "fullstack rest and realtime api framework",
   "main": "index.js",
@@ -19,12 +19,15 @@
     "fullstack",
     "nodejs",
     "cli",
-    "vite"
+    "vite",
+    "ws",
+    "websockets",
+    "framework"
   ],
-  "author": "pouchlabs",
+  "author":{"name":"pouchlabs","url": "https://x.com/pouchlab"},
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/pouchlabs/pouchsdk/issues"
   },
-  "homepage": "https://github.com/pouchlabs/pouchsdk#readme"
+  "homepage": "https://pouchsdk.top"
 }
